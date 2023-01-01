@@ -6,9 +6,13 @@ New version of  ESP32 CNC SHIELD V1.3 30PIN
 For this version i ordered the boards, made some changes to JST connectors and component emplacement.
 
 I created a Kit to solder it wich includes:
-The PCB board
+
+PCB board
+
 Connectors
+
 Resistors
+
 Capacitors
 
 You can find it on eBay soon.
