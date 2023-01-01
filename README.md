@@ -9,10 +9,22 @@ I created a Kit to solder it wich includes:
 
 PCB board
 
-Connectors
+Capacitors:
+    C1-4 100nF ceramic
+    C5-7 33uF electrolitic
 
-Resistors
+Resistors:
+    R1-4 100 Ohm
 
-Capacitors
+Connectors:
+    1 Screwterminal
+    2 PinSockets 15x1
+    6 Pinsockets 8x1
+    3 JST Feamale 4x1
+    7 JST Feamale 2x1
+    So you can build your own cables
+    3 JST Male 4x1
+    7 JST Male 2x1
+    30 Crimp terminals
 
 You can find it on eBay soon.
