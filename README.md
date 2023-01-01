@@ -7,7 +7,7 @@ For this version i ordered the boards, made some changes: JST connectors and com
 
 I created a solder Kit, wich includes:
 
-PCB board
+PCB board (54x70)
 
 Capacitors:
 
@@ -40,3 +40,4 @@ Connectors:
     30 Crimp terminals
 
 You can find it on eBay soon.
+If you want another configuration, don`t hesitate to contact me.
