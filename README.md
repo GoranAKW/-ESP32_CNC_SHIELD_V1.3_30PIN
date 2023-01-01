@@ -40,4 +40,5 @@ Connectors:
     30 Crimp terminals
 
 You can find it on eBay soon.
+
 If you want another configuration, don`t hesitate to contact me.
