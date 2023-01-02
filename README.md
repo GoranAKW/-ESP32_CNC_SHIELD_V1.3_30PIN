@@ -38,6 +38,8 @@ Connectors:
     7 JST Male 2x1
     
     30 Crimp terminals
+    
+    ![My Image](Images/ESP32KIT.png)
 
 You can find it on eBay soon.
 
