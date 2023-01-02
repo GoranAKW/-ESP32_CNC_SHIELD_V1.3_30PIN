@@ -39,7 +39,7 @@ Connectors:
     
     30 Crimp terminals
     
-    ![My Image](Images/ESP32KIT.jpg)
+    ![My Image](Images/ESP32KIT.JPG)
 
 You can find it on eBay soon.
 
