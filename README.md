@@ -42,6 +42,8 @@ Connectors:
     Foto
 ![My Image](Images/Esp32Kit.png)
 
+In Images ESP32Kit.zip you can find fotos of my excellent soldering skills( ;-/ )
+
 You can find it on eBay soon.
 
 If you want another configuration, don`t hesitate to contact me.
