@@ -44,6 +44,8 @@ Connectors:
 
 In Images ESP32Kit.zip you can find fotos of my excellent soldering skills( ;-/ )
 
+In files you'll find Machines.h and /Machines/GCan_Cnc_Shield_V1.3.h.
+
 You can find it on eBay (ESP32 CNC SHIELD GRBL solder kit V1.3 30pin).
 
 If you want another configuration, don`t hesitate to contact me.
